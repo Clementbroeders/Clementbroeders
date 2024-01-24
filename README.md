@@ -10,9 +10,9 @@
   
 - 💻 Python, SQL
 - ☁️ AWS, GCP, Databricks
-- 🛠️ Docker,PySpark
+- 🛠️ Docker, PySpark
 - 🌐 FastAPI, Streamlit, MLflow
-- 🧬 Scikit-learn, TensorFlow
+- 🧬 Scikit-learn, TensorFlow, Suprise
 - 📊 PowerBI, Tableau
 
 ✉ Contact :  clement.broeders@outlook.fr
