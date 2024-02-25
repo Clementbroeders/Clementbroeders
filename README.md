@@ -2,17 +2,18 @@
   
 📖 I’m passionate in **data engineering** & **data science**
   
-🎓 I'm currently enrolled in a bootcamp with [Jedha](https://www.jedha.co/)
+🎓 Just completed a bootcamp with [Jedha](https://www.jedha.co/)
   
-🎓 I'm also participating in the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) on GitHub
+🎓 Currently participating in the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) on GitHub
 
 🧑‍💻 Technical Skills :
-  
 - 💻 Python, SQL
-- ☁️ AWS, GCP, Databricks
-- 🛠️ Docker, PySpark
-- 🌐 FastAPI, Streamlit, MLflow
-- 🧬 Scikit-learn, TensorFlow, Suprise
+- 🐳 Docker, Kubernetes, Terraform
+- 🛠️ Airflow, Airbyte
+- ☁️ AWS, GCP
+- 🚀 PySpark (Databricks), Kafka (Confluent)
+- ⚡ FastAPI, Streamlit, MLflow
+- 🧠 Scikit-learn, TensorFlow
 - 📊 PowerBI, Tableau
 
 ✉ Contact :  clement.broeders@outlook.fr
