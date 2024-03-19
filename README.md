@@ -9,12 +9,12 @@
 🧑‍💻 Technical Skills :
 - 💻 Python, SQL
 - 🐳 Docker, Kubernetes, Terraform
-- 🛠️ Airflow, Airbyte
+- 🛠️ Airflow, Airbyte, dbt
 - ☁️ AWS, GCP
 - 🚀 PySpark (Databricks), Kafka (Confluent)
 - ⚡ FastAPI, Streamlit, MLflow
 - 🧠 Scikit-learn, TensorFlow
-- 📊 PowerBI, Tableau
+- 📊 PowerBI, Tableau, Qlikview
 
 ✉ Contact :  clement.broeders@outlook.fr
 
