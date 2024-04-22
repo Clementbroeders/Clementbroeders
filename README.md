@@ -1,10 +1,10 @@
 👋 Hi, I’m **@Clementbroeders**
   
-📖 I’m passionate in **data engineering** & **data science**
+📖 I’m passionate in **data engineering** & **data analysis**
   
-🎓 Just completed a bootcamp with [Jedha](https://www.jedha.co/)
+🎓 Completed a data science & engineering bootcamp with [Jedha](https://www.jedha.co/)
   
-🎓 Currently participating in the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) on GitHub
+🎓 Also completed [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) on GitHub
 
 🧑‍💻 Technical Skills :
 - 💻 Python, SQL
